@@ -4,7 +4,7 @@ No logic, no imports from internal modules.
 """
 
 # ── Window & Grid ─────────────────────────────────────────────────
-WIDTH, HEIGHT   = 620, 440
+WIDTH, HEIGHT   = 620, 520
 PANEL_H         = 60
 GAME_W, GAME_H  = 600, 400
 OFFSET_X        = 10
