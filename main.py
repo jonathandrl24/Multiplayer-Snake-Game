@@ -1,13 +1,3 @@
-"""
-main.py — Entry point.
-
-Run with:
-    python main.py
-
-Requires:
-    pip install pygame
-"""
-
 from snake.controller import GameController
 
 
